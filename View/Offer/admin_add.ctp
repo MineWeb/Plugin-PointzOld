@@ -17,17 +17,17 @@
             
             <div class="form-group">
               <label><?= $Lang->get('POINTS__ITEM_ICON') ?></label>
-              <input name="icon" class="form-control" type="number">
+              <input name="icon" class="form-control" type="text">
             </div>
             
             <div class="form-group">
               <label><?= $Lang->get('POINTS__OFFER_PRICE') ?></label>
-              <input name="price" class="form-control" type="number">
+              <input name="price" class="form-control" type="text">
             </div>
             
             <div class="form-group">
               <label><?= $Lang->get('POINTS__ITEM_PRICEIG') ?></label>
-              <input name="price_ig" class="form-control" type="number">
+              <input name="price_ig" class="form-control" type="text">
             </div>
             
              <div class="form-group">
