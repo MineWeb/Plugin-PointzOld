@@ -7,7 +7,7 @@ Le plugin discord est disponible [ici](https://www.spigotmc.org/resources/pointz
 Il suffit de lier la base de donnée au plugin et configurer ensuite via le panel admin.
 
 ## Description
-Le plugin Pointz permet d'ajouter vos réseaux sociaux sur une page web (VotreSite/Pointz).
+Le plugin Pointz permet de lier votre serveur au site.
 
 ## Installation | FTP
 1. Cliquez sur "Clone or download" sur la page "https://github.com/MineWeb/Plugin-Pointz".
